@@ -10,14 +10,7 @@ The input consists of a sequence of test cases. The first line of each test case
 For each test case, output a line containing one integer, the number of CDs that Jack and Jill both own.
 
 ## Sample Input 1
-3 3
-1
-2
-3
-1
-2
-4
-0 0
+3 3  1  2  3  1  2  4  0 0
 
 ## Sample Output 2
 2
